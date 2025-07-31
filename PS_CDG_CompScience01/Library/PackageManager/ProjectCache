@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638893916652954703
-    m_Hash: 2092475813
+      ticks: 638854365034786988
+    m_Hash: 3886762765
   m_LockFileStatus:
     m_FilePath: C:/Users/je425824/git/PS_CDComputerScience01/PS_CDG_CompScience01/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638893916652964704
-    m_Hash: 3130281738
+      ticks: 638854365034985702
+    m_Hash: 2490348409
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -1237,12 +1237,14 @@ m_ResolvedPackages:
     - 1.9.5
     - 1.9.6
     - 1.9.7
+    - 1.9.8
     compatible:
     - 1.9.4
     - 1.9.5
     - 1.9.6
     - 1.9.7
-    recommended: 1.9.7
+    - 1.9.8
+    recommended: 1.9.8
     deprecated:
     - 1.8.0-pre.1
   dependencies:
@@ -3612,8 +3614,11 @@ m_ResolvedPackages:
     - 10.1.3
     - 10.1.4
     - 10.2.0
+    - 10.2.1
     - 11.0.0
     - 12.0.0
+    - 12.0.1
+    - 12.0.2
     compatible:
     - 9.1.3
     - 9.2.0
@@ -3876,10 +3881,12 @@ m_ResolvedPackages:
     - 9.0.1
     - 9.0.2
     - 9.0.3
+    - 9.1.0
     - 10.0.0
     - 10.1.0
     - 10.1.1
     - 11.0.0
+    - 11.0.1
     compatible:
     - 8.0.5
     - 8.1.0
@@ -4128,6 +4135,7 @@ m_ResolvedPackages:
     - 10.1.0
     - 11.0.0
     - 12.0.0
+    - 12.0.1
     compatible:
     - 9.0.5
     - 9.1.0
@@ -4347,6 +4355,7 @@ m_ResolvedPackages:
     - 4.3.0
     - 4.3.1
     - 5.0.0
+    - 5.0.1
     compatible:
     - 3.1.3
     recommended: 3.1.3
@@ -4450,6 +4459,7 @@ m_ResolvedPackages:
     - 1.2.4
     - 1.2.5
     - 2.0.0
+    - 2.0.1
     compatible:
     - 1.1.8
     - 1.1.9
@@ -4601,6 +4611,7 @@ m_ResolvedPackages:
     - 9.0.6
     - 9.0.7
     - 9.1.0
+    - 9.1.1
     - 10.0.0
     - 11.0.0
     - 11.0.1
@@ -4840,6 +4851,8 @@ m_ResolvedPackages:
     - 2.5.3
     - 2.5.7
     - 2.6.0-exp.2
+    - 2.6.0-pre.3
+    - 2.6.0-pre.4
     compatible:
     - 1.2.4
     - 1.3.1
@@ -4871,6 +4884,8 @@ m_ResolvedPackages:
     - 2.5.3
     - 2.5.7
     - 2.6.0-exp.2
+    - 2.6.0-pre.3
+    - 2.6.0-pre.4
     recommended: 2.5.7
     deprecated: []
   dependencies:
@@ -5080,12 +5095,14 @@ m_ResolvedPackages:
     - 1.8.20
     - 1.8.21
     - 1.8.22
+    - 1.8.23
     compatible:
     - 1.8.19
     - 1.8.20
     - 1.8.21
     - 1.8.22
-    recommended: 1.8.22
+    - 1.8.23
+    recommended: 1.8.23
     deprecated: []
   dependencies:
   - name: com.unity.mathematics
