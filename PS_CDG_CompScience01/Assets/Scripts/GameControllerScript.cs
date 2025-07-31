@@ -2023,170 +2023,170 @@ public class GameControllerScript : MonoBehaviour
 
 
     // Job Option Links
-    // Job Option Links - Career Option 01
-    // Job Option Links - Career Option 01 - More Information
+    // Job Option Links - Software Developer
+    // Job Option Links - Software Developer - More Information
     public void Job01MoreLink()
     {
-        // Job 01 - More Info
-        Application.OpenURL("http://unity3d.com/");
+        // Software Developer - More Info
+        Application.OpenURL("https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm");
     }
-    // Job Option Links - Career Option 01 - Companies
+    // Job Option Links - Software Developer - Companies
     public void Job01Comp01Link()
     {
-        // Job 01 - Comapny 01
-        Application.OpenURL("http://unity3d.com/");
+        // Software Developer - Google
+        Application.OpenURL("https://www.google.com/about/careers/applications/");
     }
     public void Job01Comp02Link()
     {
-        // Job 01 - Comapny 02
-        Application.OpenURL("http://unity3d.com/");
+        // Software Developer - Apple
+        Application.OpenURL("https://www.apple.com/careers/us/");
     }
     public void Job01Comp03Link()
     {
-        // Job 01 - Comapny 03
+        // Software Developer - Meta
         Application.OpenURL("http://unity3d.com/");
     }
     public void Job01Comp04Link()
     {
-        // Job 01 - Comapny 04
-        Application.OpenURL("http://unity3d.com/");
+        // Software Developer - Microsoft
+        Application.OpenURL("https://careers.microsoft.com/v2/global/en/home.html");
     }
     public void Job01Comp05Link()
     {
-        // Job 01 - Comapny 05
-        Application.OpenURL("http://unity3d.com/");
+        // Software Developer - Amazon
+        Application.OpenURL("https://www.amazon.jobs/en/");
     }
-    // Job Option Links - Career Option 02
-    // Job Option Links - Career Option 02 - More Information
+    // Job Option Links - Web Developer
+    // Job Option Links - Web Developer - More Information
     public void Job02MoreLink()
     {
-        // Job 02 - More Info
-        Application.OpenURL("http://unity3d.com/");
+        // Web Developer - More Info
+        Application.OpenURL("https://www.bls.gov/ooh/computer-and-information-technology/web-developers.htm");
     }
-    // Job Option Links - Career Option 02 - Companies
+    // Job Option Links - Web Developer - Companies
     public void Job02Comp01Link()
     {
-        // Job 02 - Comapny 01
-        Application.OpenURL("http://unity3d.com/");
+        // Web Developer - Digital Silk
+        Application.OpenURL("https://www.digitalsilk.com/about/");
     }
     public void Job02Comp02Link()
     {
-        // Job 02 - Comapny 02
-        Application.OpenURL("http://unity3d.com/");
+        // Web Developer - Bilberry
+        Application.OpenURL("https://bilberrry.com/careers/");
     }
     public void Job02Comp03Link()
     {
-        // Job 02 - Comapny 03
-        Application.OpenURL("http://unity3d.com/");
+        // Web Developer - SDLC Corp
+        Application.OpenURL("https://sdlccorp.com/career/");
     }
     public void Job02Comp04Link()
     {
-        // Job 02 - Comapny 04
-        Application.OpenURL("http://unity3d.com/");
+        // Web Developer - Snotor
+        Application.OpenURL("https://snotor.pro/");
     }
     public void Job02Comp05Link()
     {
-        // Job 02 - Comapny 05
-        Application.OpenURL("http://unity3d.com/");
+        // Web Developer - Unico Connect
+        Application.OpenURL("https://unicoconnect.com/careers");
     }
-    // Job Option Links - Career Option 03
-    // Job Option Links - Career Option 03 - More Information
+    // Job Option Links - Mobile App Developer
+    // Job Option Links - Mobile App Developer - More Information
     public void Job03MoreLink()
     {
-        // Job 03 - More Info
-        Application.OpenURL("http://unity3d.com/");
+        // Mobile App Developer - More Info
+        Application.OpenURL("https://devskiller.com/blog/mobile-app-developer-salary/");
     }
-    // Job Option Links - Career Option 03 - Companies
+    // Job Option Links - Mobile App Developer - Companies
     public void Job03Comp01Link()
     {
-        // Job 03 - Comapny 01
-        Application.OpenURL("http://unity3d.com/");
+        // Mobile App Developer - Naked Development
+        Application.OpenURL("https://nakeddev.com/");
     }
     public void Job03Comp02Link()
     {
-        // Job 03 - Comapny 02
-        Application.OpenURL("http://unity3d.com/");
+        // Mobile App Developer - Goji Labs
+        Application.OpenURL("https://gojilabs.com/careers/");
     }
     public void Job03Comp03Link()
     {
-        // Job 03 - Comapny 03
-        Application.OpenURL("http://unity3d.com/");
+        // Mobile App Developer - Mercury Development
+        Application.OpenURL("https://www.mercdev.com/careers/vacancies");
     }
     public void Job03Comp04Link()
     {
-        // Job 03 - Comapny 04
-        Application.OpenURL("http://unity3d.com/");
+        // Mobile App Developer - Techahead
+        Application.OpenURL("https://www.techaheadcorp.com/careers/");
     }
     public void Job03Comp05Link()
     {
-        // Job 03 - Comapny 05
-        Application.OpenURL("http://unity3d.com/");
+        // Mobile App Developer - Emizen Tech
+        Application.OpenURL("https://emizentech.com/career.html");
     }
-    // Job Option Links - Career Option 04
-    // Job Option Links - Career Option 04 - More Information
+    // Job Option Links - Information Security Analyst
+    // Job Option Links - Information Security Analyst - More Information
     public void Job04MoreLink()
     {
-        // Job 04 - More Info
-        Application.OpenURL("http://unity3d.com/");
+        // Information Security Analyst - More Info
+        Application.OpenURL("https://www.bls.gov/ooh/computer-and-information-technology/information-security-analysts.htm ");
     }
-    // Job Option Links - Career Option 04 - Companies
+    // Job Option Links - Information Security Analyst - Companies
     public void Job04Comp01Link()
     {
-        // Job 04 - Comapny 01
-        Application.OpenURL("http://unity3d.com/");
+        // Information Security Analyst - Ernst & Young
+        Application.OpenURL("https://www.ey.com/en_us/careers");
     }
     public void Job04Comp02Link()
     {
-        // Job 04 - Comapny 02
-        Application.OpenURL("http://unity3d.com/");
+        // Information Security Analyst - Tata Consultancy Services
+        Application.OpenURL("https://www.tcs.com/careers");
     }
     public void Job04Comp03Link()
     {
-        // Job 04 - Comapny 03
-        Application.OpenURL("http://unity3d.com/");
+        // Information Security Analyst - Wells Fargo
+        Application.OpenURL("https://www.wellsfargo.com/about/careers/");
     }
     public void Job04Comp04Link()
     {
-        // Job 04 - Comapny 04
-        Application.OpenURL("http://unity3d.com/");
+        // Information Security Analyst - Cognizant
+        Application.OpenURL("https://careers.cognizant.com/us-en/");
     }
     public void Job04Comp05Link()
     {
-        // Job 04 - Comapny 05
-        Application.OpenURL("http://unity3d.com/");
+        // Information Security Analyst - Ericsson
+        Application.OpenURL("https://www.ericsson.com/en/careers");
     }
-    // Job Option Links - Career Option 05
-    // Job Option Links - Career Option 05 - More Information
+    // Job Option Links - IT Project Manager
+    // Job Option Links - IT Project Manager - More Information
     public void Job05MoreLink()
     {
-        // Job 05 - More Info
-        Application.OpenURL("http://unity3d.com/");
+        // IT Project Manager - More Info
+        Application.OpenURL("https://www.bls.gov/ooh/business-and-financial/project-management-specialists.htm");
     }
-    // Job Option Links - Career Option 05 - Companies
+    // Job Option Links - IT Project Manager - Companies
     public void Job05Comp01Link()
     {
-        // Job 05 - Comapny 01
-        Application.OpenURL("http://unity3d.com/");
+        // IT Project Manager - Microsoft
+        Application.OpenURL("https://careers.microsoft.com/v2/global/en/home.html");
     }
     public void Job05Comp02Link()
     {
-        // Job 05 - Comapny 02
-        Application.OpenURL("http://unity3d.com/");
+        // IT Project Manager - Google
+        Application.OpenURL("https://www.google.com/about/careers/applications/");
     }
     public void Job05Comp03Link()
     {
-        // Job 05 - Comapny 03
-        Application.OpenURL("http://unity3d.com/");
+        // IT Project Manager - Cisco
+        Application.OpenURL("https://www.cisco.com/c/en/us/about/careers.html");
     }
     public void Job05Comp04Link()
     {
-        // Job 05 - Comapny 04
-        Application.OpenURL("http://unity3d.com/");
+        // IT Project Manager - JP Morgan Chase
+        Application.OpenURL("https://www.jpmorganchase.com/careers");
     }
     public void Job05Comp05Link()
     {
-        // Job 05 - Comapny 05
-        Application.OpenURL("http://unity3d.com/");
+        // IT Project Manager - Accenture
+        Application.OpenURL("https://www.accenture.com/us-en/careers");
     }
 
 
